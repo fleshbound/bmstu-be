@@ -1,0 +1,16 @@
+                          Micro-Cap 12.2.0.5 (32 bit)
+
+
+                         Transient Analysis of circuit2
+                              17.12.2022 23:03:54
+                                   Time =0.01
+Nodes          Voltages     
+1               1.28001E+001
+2              -1.14072E+001
+3               4.84652E-001
+4               9.09277E-001
+5               1.20000E+001
+Q1_EMITTER     -7.79989E-003
+Q1_COLLECTOR    1.28017E+001
+Q2_EMITTER      3.05816E-002
+Q2_COLLECTOR    4.54531E-001
